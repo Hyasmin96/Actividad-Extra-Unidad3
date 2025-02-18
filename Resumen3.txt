@@ -1,0 +1,10 @@
+Unidad 3
+
+Controladores de Versiones
+
+Los controladores de versiones son herramientas que nos ayudan a llevar un registro de los cambios en los archivos de un proyecto. Son muy útiles cuando trabajamos en equipo, porque evitan que se sobrescriba el trabajo de otros. Además, nos permiten ver qué cambios se hicieron, cuándo y por quién.
+
+El sistema de control de versiones guarda un historial de todas las versiones anteriores de los archivos, lo que hace más fácil volver a una versión anterior si es necesario.
+
+
+Esta es la unidad que me ha parecido más interesante y desafiante, ya que hacer las conexiones entre mi ordenador y mi repositorio en GitHub me dio algunos problemas. Sin embargo, al investigar más sobre el tema, pude entender el propósito de los comandos y encontrar una solución.

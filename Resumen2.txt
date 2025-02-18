@@ -1,0 +1,16 @@
+Unidad 2
+Fundamentos de la Programación
+1. Variables
+Las variables son lugares donde se guarda información que puede cambiar mientras el programa está en ejecución. Cada variable tiene un nombre y puede almacenar diferentes tipos de datos, como números, palabras o valores de verdadero o falso.
+
+
+2. Tipos de datos
+Los tipos de datos indican qué tipo de información puede guardar una variable. Algunos ejemplos son los números y las palabras.
+
+
+3. Estructuras de Control
+Las estructuras de control son partes del código que nos ayudan a cambiar cómo se ejecuta un programa. Nos permiten tomar decisiones, repetir tareas o parar el programa en algún punto. Algunas de las más comunes son:
+Condicionales 
+Bucles 
+
+En esta unidad tuve algunos problemas con la sintaxis de JavaScript, pero a medida que comprendí la lógica de lo que se quería programar, empezó a tener más sentido y a volverse más fácil de entender.

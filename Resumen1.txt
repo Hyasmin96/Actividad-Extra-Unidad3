@@ -1,0 +1,10 @@
+Unidad 1 
+
+1. Sistema Binario
+Me pareció muy curiosa la relación que hay entre los números binarios y el funcionamiento de las computadoras, así como la forma en que el 0 y el 1 se representan mediante los botones de encendido y apagado. Es un dato muy simple que, al conocer el trasfondo de esta conexión, revela la increíble complejidad que se esconde detrás de la tecnología. Es fascinante cómo, a partir de un principio tan básico como la representación del 0 y el 1 mediante estados de encendido y apagado, se pueden construir sistemas capaces de realizar operaciones complejas.
+
+2. Lógica 
+La lógica es un elemento fundamental en el ámbito de la programación, ya que cada línea de código tiene una base lógica que determina su funcionamiento. Comprender esta lógica es crucial, ya que sin un entendimiento claro de los procesos que estamos implementando, se vuelve difícil llevar a cabo una implementación efectiva y resolver posibles problemas de manera eficiente.
+
+3. Algoritmo
+Un algoritmo es un conjunto de pasos que se siguen en un orden específico para obtener un resultado. En programación, los algoritmos son importantes porque ayudan a que las computadoras realicen las tareas que les pedimos de forma ordenada y correcta.
